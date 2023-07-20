@@ -1,0 +1,6 @@
+/home/jpubuntu/BugSquashProject/fprime/Fw/Cmd/Cmd.fpp
+/home/jpubuntu/BugSquashProject/fprime/Fw/Com/Com.fpp
+/home/jpubuntu/BugSquashProject/fprime/Fw/Log/Log.fpp
+/home/jpubuntu/BugSquashProject/fprime/Svc/ComLogger/Commands.fppi
+/home/jpubuntu/BugSquashProject/fprime/Svc/ComLogger/Events.fppi
+/home/jpubuntu/BugSquashProject/fprime/Svc/Ping/Ping.fpp

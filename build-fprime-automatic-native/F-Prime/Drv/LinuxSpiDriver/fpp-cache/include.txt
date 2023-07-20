@@ -1,0 +1,2 @@
+/home/jpubuntu/BugSquashProject/fprime/Drv/LinuxSpiDriver/Events.fppi
+/home/jpubuntu/BugSquashProject/fprime/Drv/LinuxSpiDriver/Telemetry.fppi

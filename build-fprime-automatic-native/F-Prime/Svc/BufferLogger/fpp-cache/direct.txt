@@ -1,0 +1,10 @@
+/home/jpubuntu/BugSquashProject/fprime/Fw/Buffer/Buffer.fpp
+/home/jpubuntu/BugSquashProject/fprime/Fw/Cmd/Cmd.fpp
+/home/jpubuntu/BugSquashProject/fprime/Fw/Com/Com.fpp
+/home/jpubuntu/BugSquashProject/fprime/Fw/Log/Log.fpp
+/home/jpubuntu/BugSquashProject/fprime/Fw/Tlm/Tlm.fpp
+/home/jpubuntu/BugSquashProject/fprime/Svc/BufferLogger/Commands.fppi
+/home/jpubuntu/BugSquashProject/fprime/Svc/BufferLogger/Events.fppi
+/home/jpubuntu/BugSquashProject/fprime/Svc/BufferLogger/Telemetry.fppi
+/home/jpubuntu/BugSquashProject/fprime/Svc/Ping/Ping.fpp
+/home/jpubuntu/BugSquashProject/fprime/Svc/Sched/Sched.fpp

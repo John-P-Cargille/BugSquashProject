@@ -1,0 +1,3 @@
+/home/jpubuntu/BugSquashProject/fprime/Svc/FileManager/Commands.fppi
+/home/jpubuntu/BugSquashProject/fprime/Svc/FileManager/Events.fppi
+/home/jpubuntu/BugSquashProject/fprime/Svc/FileManager/Telemetry.fppi

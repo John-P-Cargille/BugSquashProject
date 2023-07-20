@@ -1,0 +1,3 @@
+/home/jpubuntu/BugSquashProject/fprime/Fw/Cmd/Cmd.fpp
+/home/jpubuntu/BugSquashProject/fprime/Fw/Com/Com.fpp
+/home/jpubuntu/BugSquashProject/fprime/config/FpConfig.fpp

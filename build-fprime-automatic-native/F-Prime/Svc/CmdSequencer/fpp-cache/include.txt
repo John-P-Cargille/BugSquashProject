@@ -1,0 +1,3 @@
+/home/jpubuntu/BugSquashProject/fprime/Svc/CmdSequencer/Commands.fppi
+/home/jpubuntu/BugSquashProject/fprime/Svc/CmdSequencer/Events.fppi
+/home/jpubuntu/BugSquashProject/fprime/Svc/CmdSequencer/Telemetry.fppi

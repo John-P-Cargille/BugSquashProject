@@ -1,0 +1,2 @@
+/home/jpubuntu/BugSquashProject/fprime/Svc/FileUplink/Events.fppi
+/home/jpubuntu/BugSquashProject/fprime/Svc/FileUplink/Telemetry.fppi

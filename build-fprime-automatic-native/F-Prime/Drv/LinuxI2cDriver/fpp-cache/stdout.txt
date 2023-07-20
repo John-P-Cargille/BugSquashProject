@@ -1,0 +1,2 @@
+/home/jpubuntu/BugSquashProject/fprime/Drv/I2cDriverPorts/I2cDriverPorts.fpp
+/home/jpubuntu/BugSquashProject/fprime/Fw/Buffer/Buffer.fpp

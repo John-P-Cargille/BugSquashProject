@@ -1,0 +1,2 @@
+/home/jpubuntu/BugSquashProject/fprime/Svc/BufferManager/Events.fppi
+/home/jpubuntu/BugSquashProject/fprime/Svc/BufferManager/Telemetry.fppi

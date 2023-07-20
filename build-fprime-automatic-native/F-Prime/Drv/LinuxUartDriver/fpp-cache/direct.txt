@@ -1,0 +1,5 @@
+/home/jpubuntu/BugSquashProject/fprime/Drv/ByteStreamDriverModel/ByteStreamDriverModel.fpp
+/home/jpubuntu/BugSquashProject/fprime/Drv/LinuxUartDriver/Events.fppi
+/home/jpubuntu/BugSquashProject/fprime/Drv/LinuxUartDriver/Telemetry.fppi
+/home/jpubuntu/BugSquashProject/fprime/Fw/Log/Log.fpp
+/home/jpubuntu/BugSquashProject/fprime/Fw/Tlm/Tlm.fpp

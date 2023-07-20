@@ -1,0 +1,3 @@
+/home/jpubuntu/BugSquashProject/fprime/Svc/FileDownlink/Commands.fppi
+/home/jpubuntu/BugSquashProject/fprime/Svc/FileDownlink/Events.fppi
+/home/jpubuntu/BugSquashProject/fprime/Svc/FileDownlink/Telemetry.fppi

@@ -1,0 +1,3 @@
+/home/jpubuntu/BugSquashProject/fprime/Fw/Log/Log.fpp
+/home/jpubuntu/BugSquashProject/fprime/Fw/Time/Time.fpp
+/home/jpubuntu/BugSquashProject/fprime/config/FpConfig.fpp

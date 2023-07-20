@@ -1,0 +1,3 @@
+/home/jpubuntu/BugSquashProject/fprime/Svc/BufferLogger/Commands.fppi
+/home/jpubuntu/BugSquashProject/fprime/Svc/BufferLogger/Events.fppi
+/home/jpubuntu/BugSquashProject/fprime/Svc/BufferLogger/Telemetry.fppi

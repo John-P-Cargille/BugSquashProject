@@ -1,0 +1,6 @@
+/home/jpubuntu/BugSquashProject/fprime/Fw/Com/Com.fpp
+/home/jpubuntu/BugSquashProject/fprime/Fw/Time/Time.fpp
+/home/jpubuntu/BugSquashProject/fprime/Fw/Tlm/Tlm.fpp
+/home/jpubuntu/BugSquashProject/fprime/Svc/Ping/Ping.fpp
+/home/jpubuntu/BugSquashProject/fprime/Svc/Sched/Sched.fpp
+/home/jpubuntu/BugSquashProject/fprime/config/FpConfig.fpp

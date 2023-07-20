@@ -1,0 +1,7 @@
+/home/jpubuntu/BugSquashProject/fprime/Fw/Buffer/Buffer.fpp
+/home/jpubuntu/BugSquashProject/fprime/Fw/Log/Log.fpp
+/home/jpubuntu/BugSquashProject/fprime/Fw/Time/Time.fpp
+/home/jpubuntu/BugSquashProject/fprime/Fw/Tlm/Tlm.fpp
+/home/jpubuntu/BugSquashProject/fprime/Svc/FileUplink/Events.fppi
+/home/jpubuntu/BugSquashProject/fprime/Svc/FileUplink/Telemetry.fppi
+/home/jpubuntu/BugSquashProject/fprime/Svc/Ping/Ping.fpp
